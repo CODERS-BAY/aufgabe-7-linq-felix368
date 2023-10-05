@@ -2,7 +2,8 @@ namespace LinqExercise;
 
 public class Film
 {
-    /*
-     * insert code
-     */
+    public string title;
+    public string director;
+    public int releaseYear;
+    public Double rating;
 }
